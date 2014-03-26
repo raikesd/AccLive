@@ -1,0 +1,11 @@
+#	File:	accessibility.list.chroot
+#	Authro:	Donald Raikes <dr861@nyu.edu>
+#
+# ----------------------------------------------
+#	03/26/2014	dr1861	initial packages
+# ----------------------------------------------------
+
+# Provide braille support:
+brltty
+libbrlapi0.5
+python-brlapi
