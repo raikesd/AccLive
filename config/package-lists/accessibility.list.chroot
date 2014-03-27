@@ -9,3 +9,10 @@
 brltty
 libbrlapi0.5
 python-brlapi
+
+# Include console speech.
+speakup-tools
+espeak
+espeak-data
+espeakup
+speech-dispatcher
